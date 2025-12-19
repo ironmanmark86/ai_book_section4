@@ -2,6 +2,6 @@ tiktoken
 streamlit
 langchain-core
 langchain-openai
-langchain-authropic
+langchain-anthropic
 langchain-google-genai
 python-dotenv
